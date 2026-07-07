@@ -1,0 +1,5 @@
+port: 8533
+workers: 8
+debug: false
+log_level: info
+api_key: key-vzr68x390r
